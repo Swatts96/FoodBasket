@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62aa82bd-b89a-4f25-bab0-bb6e604e7152" name="Changes" comment="forgot to commit , rewriting output">
+    <list default="true" id="62aa82bd-b89a-4f25-bab0-bb6e604e7152" name="Changes" comment="Wrote main.java and fixed appending in output for fun">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Food.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -35,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -55,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706549292127</updated>
-      <workItem from="1706549293217" duration="11471000" />
+      <workItem from="1706549293217" duration="12327000" />
     </task>
     <task id="LOCAL-00001" summary="forgot to commit , rewriting output">
       <option name="closed" value="true" />
@@ -65,7 +66,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706587976707</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Wrote main.java and fixed appending in output for fun">
+      <option name="closed" value="true" />
+      <created>1706588126726</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706588126726</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="forgot to commit , rewriting output" />
-    <option name="LAST_COMMIT_MESSAGE" value="forgot to commit , rewriting output" />
+    <MESSAGE value="Wrote main.java and fixed appending in output for fun" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrote main.java and fixed appending in output for fun" />
   </component>
 </project>

@@ -13,16 +13,16 @@ boolean bread;
     }
 
 
-    public static class foodBasket {
-        Food[] meal ;
-    }
-
     public void eatIt() {
-        System.out.println("Yum yum yum, this " + this.toString() + " is sooooooo good. Thank goodness" +
-                " it isn't that other food I don't like.");
+        System.out.print("Yum yum yum! Thank goodness there's no fish in this");
     }
 
     public void denyIt() {
-        System.out.println("Yeah, I don't think I'm going to be eating " + this.toString() + " today.");
+        System.out.print("Yeah, I don't think I'm going to be eating today.");
+    }
+
+    public void weirdCombo() {
+        System.out.print("Wait a minute you're telling me theres fish and meat in this dish? I'm calling the police!");
+
     }
 }
