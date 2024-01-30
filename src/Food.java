@@ -18,12 +18,11 @@ boolean bread;
     }
 
     public void eatIt() {
-        System.out.print("Yum yum yum this " + this.Food + " is sooooooo good. Thank goodness" +
-                "it isn't that other food I don't like.");
+        System.out.println("Yum yum yum, this " + this.toString() + " is sooooooo good. Thank goodness" +
+                " it isn't that other food I don't like.");
     }
 
     public void denyIt() {
-        System.out.print("Yeah I don't think I'm going to be eating + " + this.Food + " today.");
-
+        System.out.println("Yeah, I don't think I'm going to be eating " + this.toString() + " today.");
     }
 }

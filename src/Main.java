@@ -1,10 +1,17 @@
 public class Main {
     public static void main(String[] args) {
+        Food[] picnicBasket = {
+                new Food(true, false, false, true, false), // meat, vegetable
+                new Food(false, true, true, false, false), // fruit, fish
+                new Food(false, false, false, true, true)  // vegetable, bread
+        };
 
-        Food[] picnicBasket = new Food[3] {
-
-
-
+        for (Food food : picnicBasket) {
+            if (food.fish) {
+                food.denyIt();
+            } else {
+                food.eatIt();
+            }
         }
     }
 }
