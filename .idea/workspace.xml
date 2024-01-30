@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62aa82bd-b89a-4f25-bab0-bb6e604e7152" name="Changes" comment="added weird combo for meat and fish. finished">
+    <list default="true" id="62aa82bd-b89a-4f25-bab0-bb6e604e7152" name="Changes" comment="completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706549292127</updated>
-      <workItem from="1706549293217" duration="12481000" />
+      <workItem from="1706549293217" duration="12591000" />
     </task>
     <task id="LOCAL-00001" summary="forgot to commit , rewriting output">
       <option name="closed" value="true" />
@@ -82,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706588959355</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="completed">
+      <option name="closed" value="true" />
+      <created>1706589107301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706589107301</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +98,7 @@
     <MESSAGE value="forgot to commit , rewriting output" />
     <MESSAGE value="Wrote main.java and fixed appending in output for fun" />
     <MESSAGE value="added weird combo for meat and fish. finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="added weird combo for meat and fish. finished" />
+    <MESSAGE value="completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed" />
   </component>
 </project>
