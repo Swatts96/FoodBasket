@@ -48,6 +48,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-9b16c6e2" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-e1d2075fd9a7-44b2a9b4" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,6 +66,8 @@
       <updated>1706549292127</updated>
       <workItem from="1706549293217" duration="13139000" />
       <workItem from="1706590135123" duration="123000" />
+      <workItem from="1706632379289" duration="691000" />
+      <workItem from="1706633332165" duration="945000" />
     </task>
     <task id="LOCAL-00001" summary="forgot to commit , rewriting output">
       <option name="closed" value="true" />
