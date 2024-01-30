@@ -12,17 +12,15 @@ boolean bread;
         this.bread = bread;
     }
 
-
     public void eatIt() {
-        System.out.print("Yum yum yum! Thank goodness there's no fish in this");
+        System.out.print("Yum yum yum! Thank goodness there's no fish in this\n\n");
     }
 
     public void denyIt() {
-        System.out.print("Yeah, I don't think I'm going to be eating today.");
+        System.out.print("Yeah, I don't think I'm going to be eating today.\n\n");
     }
 
     public void weirdCombo() {
-        System.out.print("Wait a minute you're telling me theres fish and meat in this dish? I'm calling the police!");
-
+        System.out.print("Wait a minute you're telling me theres fish and meat in this dish? I'm calling the police!\n\n");
     }
 }

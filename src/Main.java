@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         Food[] picnicBasket = {
-                new Food(true, false, false, true, false), // meat, vegetable
                 new Food(false, true, true, false, false), // fruit, fish
                 new Food(false, false, false, true, true), // vegetable, bread
                 new Food(true, false, true, true, true)  // vegetable, bread
@@ -9,7 +8,7 @@ public class Main {
 
         for (Food food : picnicBasket) {
             if (food.fish && food.meat) {
-                food.denyIt();
+                food.weirdCombo();
             } else if (food.fish ){
                 food.denyIt();
             } else {
